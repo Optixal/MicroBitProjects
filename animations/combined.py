@@ -71,4 +71,4 @@ imgs = [
 	Image('09990:99099:90009:99099:09990:'),
 	Image('99099:90009:00000:90009:99099:')
 ]
-display.show(imgs, delay=100, loop=True)
+display.show(imgs, delay=75, loop=True)
